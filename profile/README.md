@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Workflow Samples using Plugin](#workflow-samples-using-plugin)
-- [Helpful Links](#helpful-links)
+- [Documentation](#documentation)
                                                                                                                                                                                                                                          
 ## Overview
 Live, executable samples using the Black Duck Security Scan Plugin with Coverity                                                                                                                                                                                                                                                                                                                                                         
